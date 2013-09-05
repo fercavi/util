@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPCore", "WPCore\WPCore.csproj", "{89455397-7004-4475-A17B-34A7170B4E15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidCore", "AndroidCore\AndroidCore.csproj", "{49DFA3F8-1FFA-4904-85F4-E368042B721D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWP", "TestAtom\TestWP.csproj", "{6E8CD851-30BB-4838-8D64-014D262BB99A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testAndroid", "testAndroid\testAndroid.csproj", "{386E3B93-9274-4F05-BBB4-48472788ACEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89455397-7004-4475-A17B-34A7170B4E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89455397-7004-4475-A17B-34A7170B4E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89455397-7004-4475-A17B-34A7170B4E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89455397-7004-4475-A17B-34A7170B4E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49DFA3F8-1FFA-4904-85F4-E368042B721D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DFA3F8-1FFA-4904-85F4-E368042B721D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DFA3F8-1FFA-4904-85F4-E368042B721D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DFA3F8-1FFA-4904-85F4-E368042B721D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8CD851-30BB-4838-8D64-014D262BB99A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8CD851-30BB-4838-8D64-014D262BB99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8CD851-30BB-4838-8D64-014D262BB99A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6E8CD851-30BB-4838-8D64-014D262BB99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8CD851-30BB-4838-8D64-014D262BB99A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8CD851-30BB-4838-8D64-014D262BB99A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{386E3B93-9274-4F05-BBB4-48472788ACEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386E3B93-9274-4F05-BBB4-48472788ACEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386E3B93-9274-4F05-BBB4-48472788ACEF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{386E3B93-9274-4F05-BBB4-48472788ACEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386E3B93-9274-4F05-BBB4-48472788ACEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386E3B93-9274-4F05-BBB4-48472788ACEF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
